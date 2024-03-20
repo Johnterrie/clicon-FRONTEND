@@ -1,6 +1,7 @@
+import NavigationBar from "@/components/navigation";
+
 import type { Metadata } from "next";
 import "./globals.css";
-// import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata: Metadata = {
   title: "Home",
@@ -13,11 +14,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    // <ClerkProvider>
 
     <html lang="en">
-      <body className="">{children}</body>
+      <body className="border border-black w-screen">
+        <NavigationBar/>
+        {children}
+      </body>
     </html>
-    // </ClerkProvider>
   );
 }

@@ -19,6 +19,8 @@ const config = {
     },
     extend: {
       colors: {
+        NavBlue: "#1B6392",
+        AdsYellow: "#EBC80C",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
