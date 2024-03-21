@@ -1,6 +1,7 @@
 import TopNavigation from "./TopNavigation"
 import AdvertNavBar from "./AdvertNavigation"
 import MiddleNavBar from "./MiddleNavigation"
+import LowerNavigation from "./LowerNavigation"
 
 const NavigationBar = () => {
   return (
@@ -8,6 +9,7 @@ const NavigationBar = () => {
     <AdvertNavBar/>
     <TopNavigation/>
     <MiddleNavBar/>
+    <LowerNavigation/>
    </main> 
   )
 }

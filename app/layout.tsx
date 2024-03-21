@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Home",
-  description: "Chat App with NextJS and NestJS",
+  title: "Clicon: Home",
+  description: "a eCommerce MarketPlace",
 };
 
 export default function RootLayout({

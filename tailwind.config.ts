@@ -24,6 +24,7 @@ const config = {
       colors: {
         NavBlue: "#1B6392",
         AdsYellow: "#EBC80C",
+        categoryGrey : "#F2F4F5",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
