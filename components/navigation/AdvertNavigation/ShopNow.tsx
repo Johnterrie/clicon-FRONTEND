@@ -1,4 +1,4 @@
-import Icon from "../TopNavigation/icon"
+import Icon from "../icon"
 
 const ShopNow = () => {
   return (

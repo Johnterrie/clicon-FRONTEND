@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
 
     <html lang="en">
-      <body className="border border-black w-screen">
+      <body className="border border-black w-screen font-sans">
         <NavigationBar/>
         {children}
       </body>

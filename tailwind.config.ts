@@ -10,6 +10,9 @@ const config = {
 	],
   prefix: "",
   theme: {
+    fontFamily: {
+      sans: ['Public Sans', 'system-ui']
+    },
     container: {
       center: true,
       padding: "2rem",
