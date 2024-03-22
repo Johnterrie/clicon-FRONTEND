@@ -25,6 +25,7 @@ const config = {
         greyBlack: "#191C1F",
         NavBlue: "#1B6392",
         AdsYellow: "#EBC80C",
+        downloadGrey: '#303639',
         categoryGrey : "#F2F4F5",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
