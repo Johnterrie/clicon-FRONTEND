@@ -78,3 +78,70 @@ export const DownloadLinks = [
         name: "App Store",
     },
 ]
+
+export const PopularTagsLinks = [
+    {
+        id: 0,
+        name: "Games",
+    },
+
+    {
+        id: 1,
+        name: "Iphone",
+    },
+
+    {
+        id: 2,
+        name: "Tv",
+    },
+
+    {
+        id: 3,
+        name: "Asus Laptop",
+    },
+
+    {
+        id: 4,
+        name: "MacBook",
+    },
+
+    {
+        id: 5,
+        name: "SSD",
+    },
+
+    {
+        id: 6,
+        name: "Graphic Card",
+    },
+
+    {
+        id: 7,
+        name: "Power Bank",
+    },
+
+    {
+        id: 8,
+        name: "Smart Tv",
+    },
+
+    {
+        id: 9,
+        name: "Speaker",
+    },
+
+    {
+        id: 10,
+        name: "Tablet",
+    },
+
+    {
+        id: 11,
+        name: "Microwave",
+    },
+
+    {
+        id: 12,
+        name: "Samsung",
+    },
+]
