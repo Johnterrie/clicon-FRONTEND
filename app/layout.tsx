@@ -1,4 +1,5 @@
 import NavigationBar from "@/components/navigation";
+import FooterComponent from "@/components/Footer";
 
 import type { Metadata } from "next";
 import "./globals.css";
@@ -17,8 +18,9 @@ export default function RootLayout({
 
     <html lang="en">
       <body className="border border-black w-screen font-sans">
-        <NavigationBar/>
+        {/* <NavigationBar/> */}
         {children}
+        <FooterComponent/>
       </body>
     </html>
   );

@@ -22,6 +22,7 @@ const config = {
     },
     extend: {
       colors: {
+        greyBlack: "#191C1F",
         NavBlue: "#1B6392",
         AdsYellow: "#EBC80C",
         categoryGrey : "#F2F4F5",
