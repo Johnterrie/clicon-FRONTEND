@@ -3,7 +3,7 @@ import ProfileIcon from './data'
 
 const NavProfile = () => {
   return (
-    <div className='flex w-[10vw] justify-between items-center'>
+    <div className='flex w-[10vw] justify-between items-center relative'>
       {ProfileIcon.map((data) => {
         return (
           <Icon key={data.id} src={data.src} alt={data.alt} width={data.width} height={data.height}/>

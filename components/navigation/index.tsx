@@ -5,7 +5,7 @@ import LowerNavigation from "./LowerNavigation"
 
 const NavigationBar = () => {
   return (
-   <main className="">
+   <main className="relative">
     <AdvertNavBar/>
     <TopNavigation/>
     <MiddleNavBar/>

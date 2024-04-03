@@ -3,7 +3,7 @@ import Icon from "../icon";
 
 const Categories = () => {
   return (
-    <div className="h-[8vh] flex justify-between items-center w-[45vw]">
+    <div className="h-[8vh] flex justify-between items-center w-[45vw] relative">
       <span className="text-[6px] rounded-[2px] bg-categoryGrey px-[10px] py-[4px]">
         All Categories
       </span>
@@ -11,7 +11,7 @@ const Categories = () => {
         return (
           <div
             key={data.id}
-            className="flex justify-center items-center  text-[5px]"
+            className="flex justify-center items-center  text-[5px] relative"
           >
             <Icon
               alt={data.alt}

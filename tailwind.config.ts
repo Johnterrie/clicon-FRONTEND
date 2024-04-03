@@ -23,6 +23,8 @@ const config = {
     extend: {
       colors: {
         greyBlack: "#191C1F",
+        mainYellow: "#FA8232",
+        widgetBlue: "#2484C2",
         NavBlue: "#1B6392",
         AdsYellow: "#EBC80C",
         downloadGrey: '#303639',
