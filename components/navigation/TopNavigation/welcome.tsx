@@ -1,7 +1,7 @@
 
 const Welcome = () => {
   return (
-    <span className="text-[5px]">welcome to Clicon online eCommerce store</span>
+    <span className="text-[5px]">Welcome to Clicon online eCommerce store</span>
   )
 }
 

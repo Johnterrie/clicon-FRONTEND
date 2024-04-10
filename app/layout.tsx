@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className="w-[99vw]font-sans p-0 m-0">
         <NavigationBar/>
         {children}
-        <FooterComponent/>
+        {/* <FooterComponent/> */}
       </body>
     </html>
   );
