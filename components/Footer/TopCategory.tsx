@@ -1,4 +1,4 @@
-import Icon from "../navigation/icon";
+import Icon from "../icon";
 import Image from "next/image";
 import { TopCategoryLinks } from "./data";
 import { AccessoriesLinks } from "./data";

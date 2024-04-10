@@ -4,7 +4,6 @@ import { NavIconProps } from '@/types';
 const Icon: React.FC<NavIconProps>  = ({ src, alt, width, height }) => {
   return (
     <Image
-      className=''
       src={src}
       alt={alt}
       width={width}

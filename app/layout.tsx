@@ -18,7 +18,7 @@ export default function RootLayout({
 
     <html lang="en">
       <body className="w-[99vw]font-sans p-0 m-0">
-        <NavigationBar/>
+        {/* <NavigationBar/> */}
         {children}
         {/* <FooterComponent/> */}
       </body>

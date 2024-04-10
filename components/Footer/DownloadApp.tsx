@@ -1,4 +1,4 @@
-import Icon from "../navigation/icon"
+import Icon from "../icon"
 import { DownloadLinks } from "./data"
 
 

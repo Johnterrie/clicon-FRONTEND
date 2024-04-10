@@ -1,5 +1,5 @@
 // import Image from 'next/image';
-import Icon from '../icon';
+import Icon from '../../icon';
 import socialMedia from './data';
 
 const Socials = () => {

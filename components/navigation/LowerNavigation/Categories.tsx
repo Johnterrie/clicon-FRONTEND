@@ -1,5 +1,5 @@
 import CategoriesIcon from "./data";
-import Icon from "../icon";
+import Icon from "../../icon";
 
 const Categories = () => {
   return (

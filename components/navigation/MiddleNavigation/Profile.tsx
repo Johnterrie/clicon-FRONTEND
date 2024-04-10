@@ -1,4 +1,4 @@
-import Icon from '../icon';
+import Icon from '../../icon';
 import ProfileIcon from './data'
 
 const NavProfile = () => {

@@ -5,3 +5,9 @@ export interface NavIconProps {
     width?: number;
     height?: number;
 }
+
+export interface SearchProps {
+    className: string,
+    placeholder: string,
+    
+}
